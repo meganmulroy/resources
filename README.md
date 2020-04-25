@@ -8,10 +8,12 @@ A list of handy resources.
 **Flexbox**
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)—CSS-Tricks comprehensive guide to CSS flexbox layout.
+- [Flexbox Froggy Game](http://flexboxfroggy.com/)
 
 **Grid**
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)—CSS-Tricks comprehensive guide to CSS grid layout.
+- [Grid Garden Game](https://cssgridgarden.com/)
 
 **Cool CSS**
 
@@ -20,8 +22,9 @@ A list of handy resources.
 
 **CSS Games**
 - [Well-aimed?](https://codepen.io/pehaa/full/ROapJZ)
+- [CSS Diner](https://flukeout.github.io/)
 
-## Development
+## Miscellaneous
 
 - [Public APIs for use in development](https://github.com/public-apis/public-apis)
 - [Introducing JSON](https://www.json.org/json-en.html)
