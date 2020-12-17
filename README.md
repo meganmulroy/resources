@@ -28,3 +28,4 @@ A list of handy resources.
 
 - [Public APIs for use in development](https://github.com/public-apis/public-apis)
 - [Introducing JSON](https://www.json.org/json-en.html)
+- [WAT](https://www.destroyallsoftware.com/talks/wat)—A lightning talk by Gary Bernhardt from CodeMash 2012.
